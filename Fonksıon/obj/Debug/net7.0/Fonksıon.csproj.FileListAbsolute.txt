@@ -1,0 +1,14 @@
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\bin\Debug\net7.0\Fonksıon.exe
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\bin\Debug\net7.0\Fonksıon.deps.json
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\bin\Debug\net7.0\Fonksıon.runtimeconfig.json
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\bin\Debug\net7.0\Fonksıon.dll
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\bin\Debug\net7.0\Fonksıon.pdb
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\Fonksıon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\Fonksıon.AssemblyInfoInputs.cache
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\Fonksıon.AssemblyInfo.cs
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\Fonksıon.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\Fonksıon.dll
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\refint\Fonksıon.dll
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\Fonksıon.pdb
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\Fonksıon.genruntimeconfig.cache
+C:\Users\Serhat Meral\Desktop\BTK Akademi\Fonksıon\obj\Debug\net7.0\ref\Fonksıon.dll
